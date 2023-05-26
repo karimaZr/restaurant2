@@ -12,7 +12,7 @@ const AboutUs = () => (
 
     </div>
     <div className='app__aboutus-content_about'>
-      <SubHeading />
+      
       <h1 className='headtext__cormorant'>A propos de  nous</h1>
       <p className='p__opensans'>Notre application a été créée dans le but de simplifier la recherche de restaurants et de faciliter la prise de décision pour les utilisateurs.
         Notre objectif est de fournir une solution pratique et efficace pour aider les gens à trouver des restaurants qui répondent à leurs préférences et à leurs besoins.
